@@ -1,0 +1,848 @@
+{
+ "nguon": "Hoarosa – https://hoarosa.vn/",
+ "giayPhep": "CC BY 4.0",
+ "capNhat": "2026-11-20",
+ "soLoai": 84,
+ "hoa": [
+  {
+   "ten": "Hoa alstroemeria",
+   "tenKhac": "Ly Peru",
+   "tiengAnh": "Peruvian lily",
+   "tenKhoaHoc": "Alstroemeria spp.",
+   "ho": "Alstroemeriaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Tình bạn bền lâu; cắm bình giữ được khá lâu."
+  },
+  {
+   "ten": "Hoa anh đào",
+   "tenKhac": "",
+   "tiengAnh": "Cherry blossom",
+   "tenKhoaHoc": "Prunus serrulata",
+   "ho": "Rosaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Xuân",
+   "yNghia": "Vẻ đẹp ngắn ngủi, trân trọng hiện tại."
+  },
+  {
+   "ten": "Hoa baby",
+   "tenKhac": "Hoa bi, hoa sao",
+   "tiengAnh": "Baby's breath",
+   "tenKhoaHoc": "Gypsophila paniculata",
+   "ho": "Caryophyllaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự trong sáng; thường làm hoa phụ cho bó hoa cưới."
+  },
+  {
+   "ten": "Hoa ban",
+   "tenKhac": "",
+   "tiengAnh": "Orchid tree",
+   "tenKhoaHoc": "Bauhinia variegata",
+   "ho": "Fabaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân (tháng 2–4)",
+   "yNghia": "Biểu tượng của núi rừng Tây Bắc."
+  },
+  {
+   "ten": "Hoa bằng lăng",
+   "tenKhac": "",
+   "tiengAnh": "Queen's crape myrtle",
+   "tenKhoaHoc": "Lagerstroemia speciosa",
+   "ho": "Lythraceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè (tháng 4–6)",
+   "yNghia": "Sự chung thủy, hoài niệm."
+  },
+  {
+   "ten": "Hoa bỉ ngạn",
+   "tenKhac": "",
+   "tiengAnh": "Red spider lily",
+   "tenKhoaHoc": "Lycoris radiata",
+   "ho": "Amaryllidaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Cuối hè – thu",
+   "yNghia": "Sự chia ly, hồi ức."
+  },
+  {
+   "ten": "Hoa cẩm chướng",
+   "tenKhac": "",
+   "tiengAnh": "Carnation",
+   "tenKhoaHoc": "Dianthus caryophyllus",
+   "ho": "Caryophyllaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Tình mẫu tử và lòng biết ơn; hay dùng dịp Ngày của Mẹ."
+  },
+  {
+   "ten": "Hoa cẩm tú cầu",
+   "tenKhac": "Tú cầu",
+   "tiengAnh": "Hydrangea",
+   "tenKhoaHoc": "Hydrangea macrophylla",
+   "ho": "Hydrangeaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm, rộ mùa hè",
+   "yNghia": "Lòng biết ơn và sự gắn kết; màu hoa đổi theo độ chua của đất."
+  },
+  {
+   "ten": "Hoa cẩm tú mai",
+   "tenKhac": "",
+   "tiengAnh": "False heather",
+   "tenKhoaHoc": "Cuphea hyssopifolia",
+   "ho": "Lythraceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Quanh năm",
+   "yNghia": "Sự nhỏ nhắn, bền bỉ; hay trồng viền lối đi."
+  },
+  {
+   "ten": "Hoa cát tường",
+   "tenKhac": "Lisianthus",
+   "tiengAnh": "Lisianthus",
+   "tenKhoaHoc": "Eustoma grandiflorum",
+   "ho": "Gentianaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Lời chúc an lành, mọi sự tốt đẹp."
+  },
+  {
+   "ten": "Hoa chuông",
+   "tenKhac": "",
+   "tiengAnh": "Bellflower",
+   "tenKhoaHoc": "Campanula spp.",
+   "ho": "Campanulaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân – hè",
+   "yNghia": "Lời biết ơn chân thành."
+  },
+  {
+   "ten": "Hoa cúc",
+   "tenKhac": "Cúc đại đóa, cúc mâm xôi",
+   "tiengAnh": "Chrysanthemum",
+   "tenKhoaHoc": "Chrysanthemum morifolium",
+   "ho": "Asteraceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm, rộ cuối năm",
+   "yNghia": "Gắn với sự trường thọ; cúc trắng, cúc vàng còn dùng trong lễ viếng."
+  },
+  {
+   "ten": "Hoa cúc tana",
+   "tenKhac": "Cúc họa mi nhỏ",
+   "tiengAnh": "Feverfew",
+   "tenKhoaHoc": "Tanacetum parthenium",
+   "ho": "Asteraceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự hồn nhiên; thường làm hoa phụ."
+  },
+  {
+   "ten": "Hoa cúc vạn thọ",
+   "tenKhac": "",
+   "tiengAnh": "Marigold",
+   "tenKhoaHoc": "Tagetes erecta",
+   "ho": "Asteraceae",
+   "nhom": "Hoa Tết",
+   "mua": "Tết",
+   "yNghia": "Lời chúc sống lâu, trường thọ."
+  },
+  {
+   "ten": "Hoa dạ lý hương",
+   "tenKhac": "",
+   "tiengAnh": "Night-blooming jasmine",
+   "tenKhoaHoc": "Cestrum nocturnum",
+   "ho": "Solanaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè – thu",
+   "yNghia": "Hương thơm về đêm."
+  },
+  {
+   "ten": "Hoa dã quỳ",
+   "tenKhac": "Cúc quỳ",
+   "tiengAnh": "Mexican sunflower",
+   "tenKhoaHoc": "Tithonia diversifolia",
+   "ho": "Asteraceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Tháng 10–12",
+   "yNghia": "Sắc vàng báo mùa khô ở Tây Nguyên, Đà Lạt."
+  },
+  {
+   "ten": "Hoa dạ yến thảo",
+   "tenKhac": "",
+   "tiengAnh": "Petunia",
+   "tenKhoaHoc": "Petunia × atkinsiana",
+   "ho": "Solanaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự dịu dàng; hay trồng chậu treo ban công."
+  },
+  {
+   "ten": "Hoa dâm bụt",
+   "tenKhac": "Hoa râm bụt",
+   "tiengAnh": "Chinese hibiscus",
+   "tenKhoaHoc": "Hibiscus rosa-sinensis",
+   "ho": "Malvaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Quanh năm",
+   "yNghia": "Vẻ đẹp mộc mạc; hay trồng làm hàng rào."
+  },
+  {
+   "ten": "Hoa đào",
+   "tenKhac": "",
+   "tiengAnh": "Peach blossom",
+   "tenKhoaHoc": "Prunus persica",
+   "ho": "Rosaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Tết (miền Bắc)",
+   "yNghia": "Lời chúc may mắn, xua điều xấu khi năm mới."
+  },
+  {
+   "ten": "Địa lan",
+   "tenKhac": "Lan kiếm",
+   "tiengAnh": "Cymbidium orchid",
+   "tenKhoaHoc": "Cymbidium spp.",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Đông – xuân, rộ dịp Tết",
+   "yNghia": "Sự thanh tao, cao quý."
+  },
+  {
+   "ten": "Hoa diên vĩ",
+   "tenKhac": "Hoa iris",
+   "tiengAnh": "Iris",
+   "tenKhoaHoc": "Iris spp.",
+   "ho": "Iridaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Xuân",
+   "yNghia": "Niềm tin và hy vọng."
+  },
+  {
+   "ten": "Hoa đỗ quyên",
+   "tenKhac": "Hoa azalea",
+   "tiengAnh": "Azalea",
+   "tenKhoaHoc": "Rhododendron simsii",
+   "ho": "Ericaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự đầm ấm của gia đình."
+  },
+  {
+   "ten": "Hoa đồng tiền",
+   "tenKhac": "",
+   "tiengAnh": "Gerbera",
+   "tenKhoaHoc": "Gerbera jamesonii",
+   "ho": "Asteraceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Niềm vui và may mắn; hay có mặt trong lẵng hoa khai trương."
+  },
+  {
+   "ten": "Hoa gạo",
+   "tenKhac": "Hoa mộc miên",
+   "tiengAnh": "Red silk-cotton tree",
+   "tenKhoaHoc": "Bombax ceiba",
+   "ho": "Malvaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Tháng 3",
+   "yNghia": "Sắc đỏ báo hiệu cuối xuân ở làng quê Bắc Bộ."
+  },
+  {
+   "ten": "Hoa giấy",
+   "tenKhac": "",
+   "tiengAnh": "Bougainvillea",
+   "tenKhoaHoc": "Bougainvillea spp.",
+   "ho": "Nyctaginaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Gần như quanh năm",
+   "yNghia": "Sự bền bỉ; phần có màu thật ra là lá bắc."
+  },
+  {
+   "ten": "Hoa hải đường",
+   "tenKhac": "",
+   "tiengAnh": "Vietnamese camellia",
+   "tenKhoaHoc": "Camellia amplexicaulis",
+   "ho": "Theaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Tết",
+   "yNghia": "Sự giàu sang, phú quý."
+  },
+  {
+   "ten": "Hoa hồng",
+   "tenKhac": "",
+   "tiengAnh": "Rose",
+   "tenKhoaHoc": "Rosa spp.",
+   "ho": "Rosaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Thường dùng để bày tỏ tình yêu và sự trân trọng; ý nghĩa đổi theo màu hoa."
+  },
+  {
+   "ten": "Hoa hồng môn",
+   "tenKhac": "Môn hồng",
+   "tiengAnh": "Anthurium",
+   "tenKhoaHoc": "Anthurium andraeanum",
+   "ho": "Araceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự nồng nhiệt và hiếu khách."
+  },
+  {
+   "ten": "Hoa huệ",
+   "tenKhac": "Huệ ta, huệ trắng",
+   "tiengAnh": "Tuberose",
+   "tenKhoaHoc": "Polianthes tuberosa",
+   "ho": "Asparagaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự thanh khiết; hay dùng để dâng cúng."
+  },
+  {
+   "ten": "Hoa hướng dương",
+   "tenKhac": "",
+   "tiengAnh": "Sunflower",
+   "tenKhoaHoc": "Helianthus annuus",
+   "ho": "Asteraceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự lạc quan, luôn hướng về phía trước; hợp tặng thầy cô, bạn bè."
+  },
+  {
+   "ten": "Hoa kim ngân",
+   "tenKhac": "",
+   "tiengAnh": "Japanese honeysuckle",
+   "tenKhoaHoc": "Lonicera japonica",
+   "ho": "Caprifoliaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân – hè",
+   "yNghia": "Sự gắn bó, tình cảm ngọt ngào."
+  },
+  {
+   "ten": "Lan cát lan",
+   "tenKhac": "Lan cattleya",
+   "tiengAnh": "Cattleya orchid",
+   "tenKhoaHoc": "Cattleya spp.",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Quanh năm",
+   "yNghia": "Vẻ đẹp kiêu sa, quý phái."
+  },
+  {
+   "ten": "Hoa lan dạ hương",
+   "tenKhac": "",
+   "tiengAnh": "Hyacinth",
+   "tenKhoaHoc": "Hyacinthus orientalis",
+   "ho": "Asparagaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự hồi sinh và hương thơm của mùa xuân."
+  },
+  {
+   "ten": "Lan hài",
+   "tenKhac": "",
+   "tiengAnh": "Lady's slipper orchid",
+   "tenKhoaHoc": "Paphiopedilum spp.",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Đông – xuân",
+   "yNghia": "Vẻ đẹp hiếm và độc đáo."
+  },
+  {
+   "ten": "Lan hồ điệp",
+   "tenKhac": "",
+   "tiengAnh": "Moth orchid",
+   "tenKhoaHoc": "Phalaenopsis spp.",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Quanh năm, rộ dịp Tết",
+   "yNghia": "Sự sang trọng, thịnh vượng; chậu lan là quà biếu Tết, khai trương phổ biến."
+  },
+  {
+   "ten": "Lan hoàng thảo",
+   "tenKhac": "Lan dendro",
+   "tiengAnh": "Dendrobium orchid",
+   "tenKhoaHoc": "Dendrobium spp.",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Quanh năm",
+   "yNghia": "Sự thanh lịch và bền bỉ."
+  },
+  {
+   "ten": "Lan mokara",
+   "tenKhac": "",
+   "tiengAnh": "Mokara orchid",
+   "tenKhoaHoc": "× Mokara",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Quanh năm",
+   "yNghia": "Sự rực rỡ; hoa lai bền, hay dùng cắm lẵng."
+  },
+  {
+   "ten": "Lan vũ nữ",
+   "tenKhac": "",
+   "tiengAnh": "Dancing-lady orchid",
+   "tenKhoaHoc": "Oncidium spp.",
+   "ho": "Orchidaceae",
+   "nhom": "Hoa lan",
+   "mua": "Quanh năm",
+   "yNghia": "Sự vui tươi; chùm hoa vàng như vũ công đang múa."
+  },
+  {
+   "ten": "Hoa lan ý",
+   "tenKhac": "Bạch môn",
+   "tiengAnh": "Peace lily",
+   "tenKhoaHoc": "Spathiphyllum wallisii",
+   "ho": "Araceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Quanh năm",
+   "yNghia": "Sự bình yên; cây hợp đặt trong nhà."
+  },
+  {
+   "ten": "Hoa lay ơn",
+   "tenKhac": "Hoa dơn",
+   "tiengAnh": "Gladiolus",
+   "tenKhoaHoc": "Gladiolus spp.",
+   "ho": "Iridaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm, rộ dịp Tết",
+   "yNghia": "Sự mạnh mẽ, ý chí; thường cắm bình cao ngày lễ."
+  },
+  {
+   "ten": "Hoa loa kèn",
+   "tenKhac": "Huệ tây, bạch huệ",
+   "tiengAnh": "Easter lily",
+   "tenKhoaHoc": "Lilium longiflorum",
+   "ho": "Liliaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Tháng 4",
+   "yNghia": "Sự tinh khôi; là loài hoa đặc trưng tháng Tư ở Hà Nội."
+  },
+  {
+   "ten": "Hoa lục bình",
+   "tenKhac": "Bèo tây",
+   "tiengAnh": "Water hyacinth",
+   "tenKhoaHoc": "Pontederia crassipes",
+   "ho": "Pontederiaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Gần như quanh năm",
+   "yNghia": "Sự trôi nổi, gắn với sông nước miền Tây."
+  },
+  {
+   "ten": "Hoa lưu ly",
+   "tenKhac": "Forget-me-not",
+   "tiengAnh": "Forget-me-not",
+   "tenKhoaHoc": "Myosotis spp.",
+   "ho": "Boraginaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Xuân",
+   "yNghia": "Xin đừng quên nhau."
+  },
+  {
+   "ten": "Hoa ly",
+   "tenKhac": "Bách hợp, hoa lily",
+   "tiengAnh": "Lily",
+   "tenKhoaHoc": "Lilium spp.",
+   "ho": "Liliaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Vẻ thanh cao, sang trọng; ly thơm thường chọn để chưng phòng khách."
+  },
+  {
+   "ten": "Hoa mai vàng",
+   "tenKhac": "",
+   "tiengAnh": "Yellow apricot blossom",
+   "tenKhoaHoc": "Ochna integerrima",
+   "ho": "Ochnaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Tết (miền Nam)",
+   "yNghia": "Sự phú quý, sung túc trong năm mới."
+  },
+  {
+   "ten": "Hoa mao lương",
+   "tenKhac": "",
+   "tiengAnh": "Ranunculus",
+   "tenKhoaHoc": "Ranunculus asiaticus",
+   "ho": "Ranunculaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Đông – xuân",
+   "yNghia": "Lời khen về sự cuốn hút, rạng rỡ."
+  },
+  {
+   "ten": "Hoa mẫu đơn",
+   "tenKhac": "",
+   "tiengAnh": "Peony",
+   "tenKhoaHoc": "Paeonia spp.",
+   "ho": "Paeoniaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Cuối xuân – đầu hè (hàng nhập)",
+   "yNghia": "Sự phú quý, thịnh vượng trong văn hóa Á Đông."
+  },
+  {
+   "ten": "Hoa mimosa",
+   "tenKhac": "",
+   "tiengAnh": "Silver wattle",
+   "tenKhoaHoc": "Acacia dealbata",
+   "ho": "Fabaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Đông – xuân",
+   "yNghia": "Tình yêu thầm kín; quen thuộc ở Đà Lạt."
+  },
+  {
+   "ten": "Hoa mơ",
+   "tenKhac": "Mai trắng",
+   "tiengAnh": "Japanese apricot blossom",
+   "tenKhoaHoc": "Prunus mume",
+   "ho": "Rosaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Đầu xuân",
+   "yNghia": "Sự thanh khiết; gắn với mùa xuân Tây Bắc."
+  },
+  {
+   "ten": "Hoa mộc lan",
+   "tenKhac": "",
+   "tiengAnh": "Magnolia",
+   "tenKhoaHoc": "Magnolia spp.",
+   "ho": "Magnoliaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân",
+   "yNghia": "Sự cao quý và kiên cường."
+  },
+  {
+   "ten": "Hoa mõm sói",
+   "tenKhac": "Hoa mõm chó",
+   "tiengAnh": "Snapdragon",
+   "tenKhoaHoc": "Antirrhinum majus",
+   "ho": "Plantaginaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự duyên dáng; dáng hoa cao làm điểm nhấn cho bình."
+  },
+  {
+   "ten": "Hoa mua",
+   "tenKhac": "",
+   "tiengAnh": "Malabar melastome",
+   "tenKhoaHoc": "Melastoma malabathricum",
+   "ho": "Melastomataceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Hè",
+   "yNghia": "Vẻ đẹp giản dị của đồi núi trung du."
+  },
+  {
+   "ten": "Hoa mười giờ",
+   "tenKhac": "",
+   "tiengAnh": "Moss rose",
+   "tenKhoaHoc": "Portulaca grandiflora",
+   "ho": "Portulacaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè",
+   "yNghia": "Sự đúng hẹn; hoa nở vào khoảng giữa buổi sáng."
+  },
+  {
+   "ten": "Hoa nghệ tây",
+   "tenKhac": "Crocus",
+   "tiengAnh": "Crocus",
+   "tenKhoaHoc": "Crocus spp.",
+   "ho": "Iridaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Đầu xuân (vùng ôn đới)",
+   "yNghia": "Niềm vui khi xuân về."
+  },
+  {
+   "ten": "Hoa ngọc lan",
+   "tenKhac": "",
+   "tiengAnh": "White champaca",
+   "tenKhoaHoc": "Magnolia × alba",
+   "ho": "Magnoliaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè – thu",
+   "yNghia": "Hương thơm thanh nhã, sự thuần khiết."
+  },
+  {
+   "ten": "Hoa ngũ sắc",
+   "tenKhac": "Trâm ổi",
+   "tiengAnh": "Lantana",
+   "tenKhoaHoc": "Lantana camara",
+   "ho": "Verbenaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Gần như quanh năm",
+   "yNghia": "Sự đa sắc màu; hoa đổi màu khi già."
+  },
+  {
+   "ten": "Hoa nhài",
+   "tenKhac": "Hoa lài",
+   "tiengAnh": "Arabian jasmine",
+   "tenKhoaHoc": "Jasminum sambac",
+   "ho": "Oleaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè",
+   "yNghia": "Sự giản dị; hay dùng ướp trà."
+  },
+  {
+   "ten": "Hoa oải hương",
+   "tenKhac": "Lavender",
+   "tiengAnh": "Lavender",
+   "tenKhoaHoc": "Lavandula angustifolia",
+   "ho": "Lamiaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Hè (hàng nhập, hoa khô quanh năm)",
+   "yNghia": "Sự thư thái, chờ đợi."
+  },
+  {
+   "ten": "Hoa păng-xê",
+   "tenKhac": "Hoa bướm",
+   "tiengAnh": "Pansy",
+   "tenKhoaHoc": "Viola × wittrockiana",
+   "ho": "Violaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự nhớ nhung, suy tư."
+  },
+  {
+   "ten": "Hoa phi yến",
+   "tenKhac": "",
+   "tiengAnh": "Larkspur",
+   "tenKhoaHoc": "Delphinium spp.",
+   "ho": "Ranunculaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự nhẹ nhàng, lòng chung thủy."
+  },
+  {
+   "ten": "Hoa phù dung",
+   "tenKhac": "",
+   "tiengAnh": "Confederate rose",
+   "tenKhoaHoc": "Hibiscus mutabilis",
+   "ho": "Malvaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Thu",
+   "yNghia": "Vẻ đẹp mong manh; hoa đổi màu từ trắng sang hồng trong ngày."
+  },
+  {
+   "ten": "Hoa phượng",
+   "tenKhac": "Phượng vĩ",
+   "tiengAnh": "Royal poinciana",
+   "tenKhoaHoc": "Delonix regia",
+   "ho": "Fabaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè (tháng 5–7)",
+   "yNghia": "Gắn với tuổi học trò và mùa chia tay."
+  },
+  {
+   "ten": "Hoa quỳnh",
+   "tenKhac": "",
+   "tiengAnh": "Queen of the night",
+   "tenKhoaHoc": "Epiphyllum oxypetalum",
+   "ho": "Cactaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè",
+   "yNghia": "Vẻ đẹp chóng tàn; hoa chỉ nở một đêm."
+  },
+  {
+   "ten": "Hoa rum",
+   "tenKhac": "Hoa calla",
+   "tiengAnh": "Calla lily",
+   "tenKhoaHoc": "Zantedeschia aethiopica",
+   "ho": "Araceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Vẻ đẹp thanh lịch; hay chọn cho hoa cưới."
+  },
+  {
+   "ten": "Hoa salem",
+   "tenKhac": "Sao tím",
+   "tiengAnh": "Statice",
+   "tenKhoaHoc": "Limonium sinuatum",
+   "ho": "Plumbaginaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự ghi nhớ; hoa khô lâu, giữ màu tốt."
+  },
+  {
+   "ten": "Hoa sen",
+   "tenKhac": "",
+   "tiengAnh": "Lotus",
+   "tenKhoaHoc": "Nelumbo nucifera",
+   "ho": "Nelumbonaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Hè (tháng 5–8)",
+   "yNghia": "Sự thanh cao, gần bùn mà chẳng hôi tanh mùi bùn."
+  },
+  {
+   "ten": "Hoa sen cạn",
+   "tenKhac": "",
+   "tiengAnh": "Nasturtium",
+   "tenKhoaHoc": "Tropaeolum majus",
+   "ho": "Tropaeolaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự kiên cường; lá tròn giống lá sen."
+  },
+  {
+   "ten": "Hoa sim",
+   "tenKhac": "",
+   "tiengAnh": "Rose myrtle",
+   "tenKhoaHoc": "Rhodomyrtus tomentosa",
+   "ho": "Myrtaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Hè",
+   "yNghia": "Tình yêu thủy chung trong thơ ca."
+  },
+  {
+   "ten": "Hoa sứ",
+   "tenKhac": "Hoa đại",
+   "tiengAnh": "Frangipani",
+   "tenKhoaHoc": "Plumeria spp.",
+   "ho": "Apocynaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân – hè",
+   "yNghia": "Sự thanh tịnh; thường trồng ở chùa."
+  },
+  {
+   "ten": "Hoa sữa",
+   "tenKhac": "",
+   "tiengAnh": "Blackboard tree",
+   "tenKhoaHoc": "Alstonia scholaris",
+   "ho": "Apocynaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Thu (tháng 9–11)",
+   "yNghia": "Hương thơm đặc trưng của mùa thu Hà Nội."
+  },
+  {
+   "ten": "Hoa súng",
+   "tenKhac": "",
+   "tiengAnh": "Water lily",
+   "tenKhoaHoc": "Nymphaea spp.",
+   "ho": "Nymphaeaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Hè – thu",
+   "yNghia": "Sự bình yên, mộc mạc của làng quê."
+  },
+  {
+   "ten": "Hoa tam giác mạch",
+   "tenKhac": "",
+   "tiengAnh": "Buckwheat flower",
+   "tenKhoaHoc": "Fagopyrum esculentum",
+   "ho": "Polygonaceae",
+   "nhom": "Hoa dại & hoa theo mùa",
+   "mua": "Tháng 10–12",
+   "yNghia": "Đặc trưng của cao nguyên đá Hà Giang."
+  },
+  {
+   "ten": "Hoa thiên điểu",
+   "tenKhac": "Hoa chim thiên đường",
+   "tiengAnh": "Bird of paradise",
+   "tenKhoaHoc": "Strelitzia reginae",
+   "ho": "Strelitziaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm",
+   "yNghia": "Sự tự do, vươn cao; hợp với lẵng hoa khai trương."
+  },
+  {
+   "ten": "Hoa thiên lý",
+   "tenKhac": "",
+   "tiengAnh": "Tonkin jasmine",
+   "tenKhoaHoc": "Telosma cordata",
+   "ho": "Apocynaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè",
+   "yNghia": "Sự giản dị; hoa vừa ngắm vừa nấu canh."
+  },
+  {
+   "ten": "Hoa thược dược",
+   "tenKhac": "",
+   "tiengAnh": "Dahlia",
+   "tenKhoaHoc": "Dahlia spp.",
+   "ho": "Asteraceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Cuối năm – đầu xuân",
+   "yNghia": "Sự bền bỉ và nét duyên dáng."
+  },
+  {
+   "ten": "Hoa thủy tiên",
+   "tenKhac": "",
+   "tiengAnh": "Narcissus",
+   "tenKhoaHoc": "Narcissus spp.",
+   "ho": "Amaryllidaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Tết",
+   "yNghia": "Lời chúc may mắn; người chơi gọt củ cho hoa nở đúng giao thừa."
+  },
+  {
+   "ten": "Hoa ti gôn",
+   "tenKhac": "",
+   "tiengAnh": "Coral vine",
+   "tenKhoaHoc": "Antigonon leptopus",
+   "ho": "Polygonaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Hè – thu",
+   "yNghia": "Mối tình dang dở trong thơ ca."
+  },
+  {
+   "ten": "Hoa trà",
+   "tenKhac": "Sơn trà",
+   "tiengAnh": "Camellia",
+   "tenKhoaHoc": "Camellia japonica",
+   "ho": "Theaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Đông – xuân",
+   "yNghia": "Sự ngưỡng mộ và vẻ đẹp hoàn mỹ."
+  },
+  {
+   "ten": "Hoa trang",
+   "tenKhac": "Mẫu đơn ta",
+   "tiengAnh": "Jungle geranium",
+   "tenKhoaHoc": "Ixora coccinea",
+   "ho": "Rubiaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Gần như quanh năm",
+   "yNghia": "Lời cầu chúc bình an; hay dùng để cúng."
+  },
+  {
+   "ten": "Hoa trạng nguyên",
+   "tenKhac": "",
+   "tiengAnh": "Poinsettia",
+   "tenKhoaHoc": "Euphorbia pulcherrima",
+   "ho": "Euphorbiaceae",
+   "nhom": "Hoa Tết",
+   "mua": "Giáng sinh – Tết",
+   "yNghia": "Lời chúc thành đạt; chậu hoa đỏ cuối năm."
+  },
+  {
+   "ten": "Hoa tử đằng",
+   "tenKhac": "",
+   "tiengAnh": "Chinese wisteria",
+   "tenKhoaHoc": "Wisteria sinensis",
+   "ho": "Fabaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân",
+   "yNghia": "Tình yêu bền lâu, sự chờ đợi."
+  },
+  {
+   "ten": "Hoa tulip",
+   "tenKhac": "Uất kim hương",
+   "tiengAnh": "Tulip",
+   "tenKhoaHoc": "Tulipa spp.",
+   "ho": "Liliaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Quanh năm (hàng nhập), rộ mùa xuân",
+   "yNghia": "Lời chúc khởi đầu mới và tình cảm chân thành."
+  },
+  {
+   "ten": "Hoa violet",
+   "tenKhac": "",
+   "tiengAnh": "Sweet violet",
+   "tenKhoaHoc": "Viola odorata",
+   "ho": "Violaceae",
+   "nhom": "Hoa cây cảnh & cây phố",
+   "mua": "Xuân",
+   "yNghia": "Sự khiêm nhường, chung thủy."
+  },
+  {
+   "ten": "Hoa vua",
+   "tenKhac": "Protea",
+   "tiengAnh": "King protea",
+   "tenKhoaHoc": "Protea cynaroides",
+   "ho": "Proteaceae",
+   "nhom": "Hoa cắt cành",
+   "mua": "Hàng nhập, theo mùa",
+   "yNghia": "Sự mạnh mẽ và nổi bật."
+  }
+ ]
+}
